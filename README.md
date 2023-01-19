@@ -9,7 +9,7 @@ python -m venv env
 
 ### First you need to install dependencies
 ```python
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ### After that, you can run jupyter notebook
