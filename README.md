@@ -19,12 +19,8 @@ jupyter notebook
 
 ## Conclusions
 * In 60s and 70s decades, difference between winner and loser were big.
-* In 80s and 90s points have increased, teams have started to be managed professionally, but the difference between both finalists still almost the same
-* Nowadays matches are balanced and top points are not at the same level than 80s and 90s
-* New England Patriots have appeared in 11 superbowls matches and won 6 times
-* Buffalo Bills have appeared in 4 finals and never won.
-* Denver Broncos won 3 times and lost 5 times.
-* Tom Brady is the GOAT with 4 MVP Prizes
-* Pittsburgh Steelers and New England Patriots are the most victorious teams (6 times)
+* In 80s and 90s points have increased, teams have started to be managed professionally, matches were balanced and difference between winner and loser was short
+* Nowadays is interesting, number of points in matches increased a lot but difference between winner and loser is short. Teams invested a lot in attack and it's good for the show
+
 
 #### P.S.: File date is until 2020
